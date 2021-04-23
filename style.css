@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: #f0e8c5;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+#nature{
+    width: 400px;
+    height: 400px;
+}
+#nature_two{
+    width: 400px;
+    height: 400px;
+}
+#nature_three{
+    width: 400px;
+    height: 400px;
+}
+#nature_four{
+    width: 400px;
+    height: 400px;
+}
